@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Iuri Ranieri, a brazillian developer and musician!
+### Hi there 👋 I'm Iuri Ranieri, a brazillian software developer and musician!
 
 - 🔭 I’m currently working as systems developer freelancer;
 - 🌱 I’m currently learning I.T. infrastructures contents with Linux Ubuntu OS and web development full stack with HTML, CSS, JS, NODEJS+EJS, SQL, React and so on;
