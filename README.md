@@ -33,7 +33,7 @@ I'm a software developer and systems analyst in training, with a passion for ful
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuriranierioliveira&show_icons=true&theme=radical)](https://github.com/iuriranierioliveira)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranieriiuri&show_icons=true&theme=radical)](https://github.com/ranieriiuri)
 
 ## Let's connect and collaborate!
 
